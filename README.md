@@ -1,6 +1,6 @@
 ### Olá, sou o Joaby 👋
 
-## Apaixonado por programação, estudando para me tornar um dev frontend!
+## Apaixonado por programação, estudando para me especializar na stack MERN ❤
 - 🚀 Atualmente estudando Node e React js!
 - 👨‍💻 2° Ano de Desenvolvimento de Sistemas na Etec Antônio Devisate  
 - ✅ Metas para 2020: 
@@ -29,6 +29,7 @@
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/php.png" />][webdevplaylist]
 
 <br />
 <br />
