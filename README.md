@@ -1,6 +1,5 @@
-[<img align="center" alt="codeSTACKr | YouTube" width="100%" src="https://images.unsplash.com/photo-1503437313881-503a91226402?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=889&q=80" />][image]
-### Olá, sou o Joaby 👋
-
+# Olá, sou o Joaby 👋
+[<img align="center" alt="codeSTACKr | YouTube" width="100%" height="250" src="https://images.unsplash.com/photo-1503437313881-503a91226402?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=889&q=80" />][image]
 ## Freelancer, curto muito cantar e tocar violão além de amar desenvolver interfaces e codar o front 🥰
 - 🚀 Me aprofundando em UI e UX design
 - 👨‍💻 3° Ano de Desenvolvimento de Sistemas na Etec Antônio Devisate
