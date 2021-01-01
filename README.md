@@ -1,3 +1,4 @@
+[<img align="center" alt="codeSTACKr | YouTube" width="100%" src="https://images.unsplash.com/photo-1503437313881-503a91226402?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=889&q=80" />][image]
 ### Olá, sou o Joaby 👋
 
 ## Freelancer, curto muito cantar e tocar violão além de amar desenvolver interfaces e codar o front 🥰
@@ -49,4 +50,5 @@
 [youtube]: https://www.youtube.com/channel/UCT1LR0-Qqr8hML9EtnPsuTQ?
 [instagram]: https://www.instagram.com/little_joaby/
 [linkedin]: https://www.linkedin.com/in/joaby-oliveira-088423195/
+[image]: https://unsplash.com/photos/5Xwaj9gaR0g
 
