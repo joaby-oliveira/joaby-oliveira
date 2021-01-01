@@ -13,16 +13,20 @@
 
 <br />
 
-### Linguagens e ferramentas:
-
+### Saiba minhas habilidades
 #### Tenho sólido conhecimento em:
 - HTML
 - CSS
+- JS
 - PHP
+- MySQL
 - GIT
+- Lógica de Programação e algoritmos
+
 
 #### E tenho estudado:
 - React
+- React Native
 - Node
 - UI
 - UX
