@@ -1,6 +1,6 @@
 # Olá, sou o Joaby 👋
-## Freelancer, curto muito cantar e tocar violão além de amar desenvolver interfaces e codar o front 🥰
-- 🚀 Me aprofundando em UI e UX design
+## Freelancer, minha paixão desenvolver interfaces e codar 🥰
+- 🚀 Estudando NodeJS 
 - 👨‍💻 3° Ano de Desenvolvimento de Sistemas na Etec Antônio Devisate
 
 ### Se quiser entrar em contato, fique à vontade 😉:
@@ -12,27 +12,24 @@
 
 <br />
 
-### Saiba minhas habilidades
-#### Tenho sólido conhecimento em:
+### Saiba minhas skills 🐱‍👤
+#### Backend:
+- PHP
+- MySQL
+- NodeJS
+- Sequelize
+- Express
+
+
+#### Frontend|Mobile 😎:
+- React
+- React Native
+- UI
 - HTML
 - CSS
 - JS
-- PHP
-- MySQL
-- GIT
-- Lógica de Programação e algoritmos
-
-
-#### E tenho estudado:
-- React
-- React Native
-- Node
-- UI
-- UX
 
 <br />
-<br />
-
 ---
 
 ### 📺 [Últimos vídeos do meu canal]
