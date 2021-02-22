@@ -19,6 +19,7 @@
 - NodeJS
 - Sequelize
 - Express
+- Knex.js
 
 
 #### Frontend|Mobile 😎:
