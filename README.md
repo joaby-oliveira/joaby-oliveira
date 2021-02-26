@@ -1,7 +1,7 @@
 # Olá, sou o Joaby 👋
-## Freelancer, minha paixão desenvolver interfaces e codar 🥰
-- 🚀 Estudando NodeJS 
-- 👨‍💻 3° Ano de Desenvolvimento de Sistemas na Etec Antônio Devisate
+## Freelancer, minha paixão é desenvolver interfaces e codar 🥰
+- 🚀 Estudando NodeJS
+- 👨‍💻 3° Ano de Desenvolvimento de Software na Etec Antônio Devisate
 
 ### Se quiser entrar em contato, fique à vontade 😉:
 
