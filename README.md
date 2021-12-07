@@ -11,6 +11,14 @@
 - Sequelize
 - Express
 - Knex.js
+
 #### Frontend|Mobile 😎:
+- HTML
+- CSS
+- SASS
+- Gulp.js
 - React
-- React Native
+- Next.js
+- Styled Components
+
+#### Além de tudo, amo estudar, também, UI/UX, pra fazer meus designs uso o Figma
