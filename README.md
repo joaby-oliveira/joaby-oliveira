@@ -12,7 +12,7 @@
 ## Quem eu sou? 🤔
 ###### Me apaixonei por TI em 2019 e desde então venho estudando e melhorando minhas soft e hard skills.
 - 🚀 Fome insaciável de aprender mais sobre Angular e Node.js
-- 👨‍💻 Graduando em Análise e Desenvolvimento de Sistemas. Técnico em Desenvolvimento de Sistemas.
+- 👨‍💻 Graduando em Análise e Desenvolvimento de Sistemase. Formado em curso Técnico de Desenvolvimento de Sistemas pela Etec.
 - 💖 Amo assistir filmes, escutar uma boa música e treinar calistenia 
 
 ## Do que eu sei? 🐱‍👤
