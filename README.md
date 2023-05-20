@@ -15,7 +15,7 @@
 - 👨‍💻 Graduando em Análise e Desenvolvimento de Sistemas. Técnico em Desenvolvimento de Sistemas.
 - 💖 Amo assistir filmes, escutar uma boa música e treinar calistenia 
 
-## Do que eu manjo? 🐱‍👤
+## Do que eu sei? 🐱‍👤
 - Angular
   - NGRX
   - RXJS
@@ -32,7 +32,9 @@
 - Gerais
 	- HTML
 	- JavaScript
+	- TypeScript
 	- SASS
+	- Tailwind CSS
 	- NX
 	- Redux pattern
 	- UI/UX
